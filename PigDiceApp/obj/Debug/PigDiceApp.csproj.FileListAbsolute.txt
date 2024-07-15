@@ -1,0 +1,7 @@
+D:\Training\PigDiceApp\bin\Debug\PigDiceApp.exe.config
+D:\Training\PigDiceApp\bin\Debug\PigDiceApp.exe
+D:\Training\PigDiceApp\bin\Debug\PigDiceApp.pdb
+D:\Training\PigDiceApp\obj\Debug\PigDiceApp.csproj.AssemblyReference.cache
+D:\Training\PigDiceApp\obj\Debug\PigDiceApp.csproj.CoreCompileInputs.cache
+D:\Training\PigDiceApp\obj\Debug\PigDiceApp.exe
+D:\Training\PigDiceApp\obj\Debug\PigDiceApp.pdb

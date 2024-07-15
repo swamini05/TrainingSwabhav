@@ -5,3 +5,10 @@ D:\Training\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
 D:\Training\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
 D:\Training\ProductApp\obj\Debug\ProductApp.exe
 D:\Training\ProductApp\obj\Debug\ProductApp.pdb
+D:\Training\Assignments\TrainingSwabhav\ProductApp\bin\Debug\ProductApp.exe.config
+D:\Training\Assignments\TrainingSwabhav\ProductApp\bin\Debug\ProductApp.exe
+D:\Training\Assignments\TrainingSwabhav\ProductApp\bin\Debug\ProductApp.pdb
+D:\Training\Assignments\TrainingSwabhav\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+D:\Training\Assignments\TrainingSwabhav\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\TrainingSwabhav\ProductApp\obj\Debug\ProductApp.exe
+D:\Training\Assignments\TrainingSwabhav\ProductApp\obj\Debug\ProductApp.pdb
