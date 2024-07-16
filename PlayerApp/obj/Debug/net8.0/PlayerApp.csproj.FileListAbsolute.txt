@@ -1,0 +1,14 @@
+D:\Training\PlayerApp\bin\Debug\net8.0\PlayerApp.exe
+D:\Training\PlayerApp\bin\Debug\net8.0\PlayerApp.deps.json
+D:\Training\PlayerApp\bin\Debug\net8.0\PlayerApp.runtimeconfig.json
+D:\Training\PlayerApp\bin\Debug\net8.0\PlayerApp.dll
+D:\Training\PlayerApp\bin\Debug\net8.0\PlayerApp.pdb
+D:\Training\PlayerApp\obj\Debug\net8.0\PlayerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\PlayerApp\obj\Debug\net8.0\PlayerApp.AssemblyInfoInputs.cache
+D:\Training\PlayerApp\obj\Debug\net8.0\PlayerApp.AssemblyInfo.cs
+D:\Training\PlayerApp\obj\Debug\net8.0\PlayerApp.csproj.CoreCompileInputs.cache
+D:\Training\PlayerApp\obj\Debug\net8.0\PlayerApp.dll
+D:\Training\PlayerApp\obj\Debug\net8.0\refint\PlayerApp.dll
+D:\Training\PlayerApp\obj\Debug\net8.0\PlayerApp.pdb
+D:\Training\PlayerApp\obj\Debug\net8.0\PlayerApp.genruntimeconfig.cache
+D:\Training\PlayerApp\obj\Debug\net8.0\ref\PlayerApp.dll
