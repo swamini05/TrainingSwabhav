@@ -1,0 +1,7 @@
+D:\Training\EnumDemo\bin\Debug\EnumDemo.exe.config
+D:\Training\EnumDemo\bin\Debug\EnumDemo.exe
+D:\Training\EnumDemo\bin\Debug\EnumDemo.pdb
+D:\Training\EnumDemo\obj\Debug\EnumDemo.csproj.AssemblyReference.cache
+D:\Training\EnumDemo\obj\Debug\EnumDemo.csproj.CoreCompileInputs.cache
+D:\Training\EnumDemo\obj\Debug\EnumDemo.exe
+D:\Training\EnumDemo\obj\Debug\EnumDemo.pdb
