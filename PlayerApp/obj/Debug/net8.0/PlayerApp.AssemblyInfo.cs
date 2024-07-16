@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlayerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12a41aecc8436a72a9f576850635a38745c4af72")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlayerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlayerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

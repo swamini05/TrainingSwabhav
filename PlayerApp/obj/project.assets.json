@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\PlayerApp\\PlayerApp.csproj",
+      "projectUniqueName": "D:\\Training\\Assignments\\TrainingSwabhav\\PlayerApp\\PlayerApp.csproj",
       "projectName": "PlayerApp",
-      "projectPath": "D:\\Training\\PlayerApp\\PlayerApp.csproj",
+      "projectPath": "D:\\Training\\Assignments\\TrainingSwabhav\\PlayerApp\\PlayerApp.csproj",
       "packagesPath": "C:\\Users\\swamini.chaudhari\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\PlayerApp\\obj\\",
+      "outputPath": "D:\\Training\\Assignments\\TrainingSwabhav\\PlayerApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\swamini.chaudhari\\AppData\\Roaming\\NuGet\\NuGet.Config",
