@@ -1,0 +1,7 @@
+D:\Training\StructClassDemo\bin\Debug\StructClassDemo.exe.config
+D:\Training\StructClassDemo\bin\Debug\StructClassDemo.exe
+D:\Training\StructClassDemo\bin\Debug\StructClassDemo.pdb
+D:\Training\StructClassDemo\obj\Debug\StructClassDemo.csproj.AssemblyReference.cache
+D:\Training\StructClassDemo\obj\Debug\StructClassDemo.csproj.CoreCompileInputs.cache
+D:\Training\StructClassDemo\obj\Debug\StructClassDemo.exe
+D:\Training\StructClassDemo\obj\Debug\StructClassDemo.pdb
