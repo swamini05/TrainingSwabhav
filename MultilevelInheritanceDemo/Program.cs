@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using InheritanceDemo.Models;
+using MultilevelInheritanceDemo.Models;
 
-namespace InheritanceDemo
+namespace MultilevelInheritanceDemo
 {
     internal class Program
     {
