@@ -1,0 +1,14 @@
+D:\Training\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.exe
+D:\Training\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.deps.json
+D:\Training\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.runtimeconfig.json
+D:\Training\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.dll
+D:\Training\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.pdb
+D:\Training\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.AssemblyInfoInputs.cache
+D:\Training\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.AssemblyInfo.cs
+D:\Training\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.csproj.CoreCompileInputs.cache
+D:\Training\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.dll
+D:\Training\InheritanceAssignment\obj\Debug\net8.0\refint\InheritanceAssignment.dll
+D:\Training\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.pdb
+D:\Training\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.genruntimeconfig.cache
+D:\Training\InheritanceAssignment\obj\Debug\net8.0\ref\InheritanceAssignment.dll

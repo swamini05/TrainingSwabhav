@@ -1,0 +1,14 @@
+D:\Training\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.exe
+D:\Training\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.deps.json
+D:\Training\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.runtimeconfig.json
+D:\Training\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.dll
+D:\Training\ReflectionDemo\bin\Debug\net8.0\ReflectionDemo.pdb
+D:\Training\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.AssemblyInfoInputs.cache
+D:\Training\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.AssemblyInfo.cs
+D:\Training\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.csproj.CoreCompileInputs.cache
+D:\Training\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.dll
+D:\Training\ReflectionDemo\obj\Debug\net8.0\refint\ReflectionDemo.dll
+D:\Training\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.pdb
+D:\Training\ReflectionDemo\obj\Debug\net8.0\ReflectionDemo.genruntimeconfig.cache
+D:\Training\ReflectionDemo\obj\Debug\net8.0\ref\ReflectionDemo.dll
