@@ -30,7 +30,7 @@ namespace MovieStoreApp.Models
                 $"Name : {Name}\n"+
                 $"Id : {Id}\n" +
                 $"Genre : {Genre}\n" +
-                $"Release Date : {ReleaseYear}\n";
+                $"Release Year : {ReleaseYear}\n";
         }
     }
 }
