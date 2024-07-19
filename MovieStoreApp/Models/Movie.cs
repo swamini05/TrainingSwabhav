@@ -11,18 +11,18 @@ namespace MovieStoreApp.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public string Genre { get; set; }
-        public DateOnly ReleaseDate {  get; set; }
+        public int ReleaseYear {  get; set; }
 
-        public Movie(int id, string name, string genre, DateOnly releaseDate)
+        public Movie(int id, string name, string genre, int releaseYear)
         {
             Id = id;
             Name = name;
             Genre = genre;
-            ReleaseDate = releaseDate;
+            ReleaseYear = releaseYear;
         }
-        public static Movie AddMovie(int id, string name, string genre, DateOnly releaseDate)
+        public static Movie AddMovie(int id, string name, string genre, int releaseYear)
         {
-            return new Movie(id, name, genre, releaseDate);
+            return new Movie(id, name, genre, releaseYear);
         }
         public override string ToString()
         {
@@ -30,7 +30,7 @@ namespace MovieStoreApp.Models
                 $"Name : {Name}\n"+
                 $"Id : {Id}\n" +
                 $"Genre : {Genre}\n" +
-                $"Release Date : {ReleaseDate}\n";
+                $"Release Date : {ReleaseYear}\n";
         }
     }
 }

@@ -78,10 +78,10 @@ namespace MovieStoreApp
             string name = Console.ReadLine();
             Console.Write("Enter genre: ");
             string genre = Console.ReadLine();
-            Console.Write("Enter release date (YYYY-MM-DD): ");
-            DateOnly releaseDate = DateOnly.Parse(Console.ReadLine());
+            Console.Write("Enter release year: ");
+            int releaseYear = Convert.ToInt32(Console.ReadLine());
 
-            Movie movie = Movie.AddMovie(id,name,genre,releaseDate);
+            Movie movie = Movie.AddMovie(id,name,genre,releaseYear);
             movieList.Add(movie);
             Console.WriteLine("Movie added successfully.\n");
         }
