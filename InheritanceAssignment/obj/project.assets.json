@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\InheritanceAssignment\\InheritanceAssignment.csproj",
+      "projectUniqueName": "D:\\Training\\Assignments\\TrainingSwabhav\\InheritanceAssignment\\InheritanceAssignment.csproj",
       "projectName": "InheritanceAssignment",
-      "projectPath": "D:\\Training\\InheritanceAssignment\\InheritanceAssignment.csproj",
+      "projectPath": "D:\\Training\\Assignments\\TrainingSwabhav\\InheritanceAssignment\\InheritanceAssignment.csproj",
       "packagesPath": "C:\\Users\\swamini.chaudhari\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\InheritanceAssignment\\obj\\",
+      "outputPath": "D:\\Training\\Assignments\\TrainingSwabhav\\InheritanceAssignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\swamini.chaudhari\\AppData\\Roaming\\NuGet\\NuGet.Config",
