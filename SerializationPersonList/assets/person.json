@@ -1,0 +1,28 @@
+[
+    {
+        "Id": 1,
+        "Name": "Swamini Chaudhari",
+        "Email": "swamini@gmail.com"
+    },
+    {
+        "Id": 2,
+        "Name": "Sampada Bhadane",
+        "Email": "sam@gmail.com"
+    },
+    {
+        "Id": 3,
+        "Name": "Swati Padmanabhan",
+        "Email": "swati@gmail.com"
+    },
+    {
+        "Id": 4,
+        "Name": "Akshay Jain",
+        "Email": "akshay@gmail.com"
+    },
+    {
+        "Id": 5,
+        "Name": "Tushar Chaudhari",
+        "Email": "tushar@gmail.com"
+    }
+
+]
