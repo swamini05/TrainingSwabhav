@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\FileHandlingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E30A2B4-56AA-43F9-B011-491ACC336583}|FileHandlingDemo.csproj|d:\\training\\filehandlingdemo\\models\\readwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E30A2B4-56AA-43F9-B011-491ACC336583}|FileHandlingDemo.csproj|solutionrelative:models\\readwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E30A2B4-56AA-43F9-B011-491ACC336583}|FileHandlingDemo.csproj|d:\\training\\filehandlingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E30A2B4-56AA-43F9-B011-491ACC336583}|FileHandlingDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadWrite.cs",
+              "DocumentMoniker": "D:\\Training\\FileHandlingDemo\\Models\\ReadWrite.cs",
+              "RelativeDocumentMoniker": "Models\\ReadWrite.cs",
+              "ToolTip": "D:\\Training\\FileHandlingDemo\\Models\\ReadWrite.cs",
+              "RelativeToolTip": "Models\\ReadWrite.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowC8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T17:57:26.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\FileHandlingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Training\\FileHandlingDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:28:17.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
