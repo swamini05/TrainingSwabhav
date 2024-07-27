@@ -27,3 +27,11 @@ D:\Training\Assignments\TrainingSwabhav\MovieStoreApp\obj\Debug\net8.0\refint\Mo
 D:\Training\Assignments\TrainingSwabhav\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.pdb
 D:\Training\Assignments\TrainingSwabhav\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.genruntimeconfig.cache
 D:\Training\Assignments\TrainingSwabhav\MovieStoreApp\obj\Debug\net8.0\ref\MovieStoreApp.dll
+D:\Training\Assignments\TrainingSwabhav\MovieStoreApp\bin\Debug\net8.0\MovieStoreApp.dll.config
+D:\Training\Assignments\TrainingSwabhav\MovieStoreApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Training\Assignments\TrainingSwabhav\MovieStoreApp\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Training\Assignments\TrainingSwabhav\MovieStoreApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\Assignments\TrainingSwabhav\MovieStoreApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Training\Assignments\TrainingSwabhav\MovieStoreApp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Training\Assignments\TrainingSwabhav\MovieStoreApp\obj\Debug\net8.0\MovieStoreApp.csproj.AssemblyReference.cache
+D:\Training\Assignments\TrainingSwabhav\MovieStoreApp\obj\Debug\net8.0\MovieSto.C0B33122.Up2Date

@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{400DD348-12A8-44A5-AB6F-A065935076E6}|MovieStoreApp.csproj|d:\\training\\assignments\\trainingswabhav\\moviestoreapp\\assets\\mymoviestore.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{400DD348-12A8-44A5-AB6F-A065935076E6}|MovieStoreApp.csproj|solutionrelative:assets\\mymoviestore.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400DD348-12A8-44A5-AB6F-A065935076E6}|MovieStoreApp.csproj|d:\\training\\assignments\\trainingswabhav\\moviestoreapp\\viewcontrollers\\moviestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400DD348-12A8-44A5-AB6F-A065935076E6}|MovieStoreApp.csproj|solutionrelative:viewcontrollers\\moviestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400DD348-12A8-44A5-AB6F-A065935076E6}|MovieStoreApp.csproj|d:\\training\\assignments\\trainingswabhav\\moviestoreapp\\repository\\moviestoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400DD348-12A8-44A5-AB6F-A065935076E6}|MovieStoreApp.csproj|solutionrelative:repository\\moviestoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{400DD348-12A8-44A5-AB6F-A065935076E6}|MovieStoreApp.csproj|d:\\training\\assignments\\trainingswabhav\\moviestoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{400DD348-12A8-44A5-AB6F-A065935076E6}|MovieStoreApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400DD348-12A8-44A5-AB6F-A065935076E6}|MovieStoreApp.csproj|d:\\training\\assignments\\trainingswabhav\\moviestoreapp\\services\\dataserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400DD348-12A8-44A5-AB6F-A065935076E6}|MovieStoreApp.csproj|solutionrelative:services\\dataserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{400DD348-12A8-44A5-AB6F-A065935076E6}|MovieStoreApp.csproj|d:\\training\\assignments\\trainingswabhav\\moviestoreapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,33 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "myMovieStore.json",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreApp\\assets\\myMovieStore.json",
+              "RelativeDocumentMoniker": "assets\\myMovieStore.json",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreApp\\assets\\myMovieStore.json",
+              "RelativeToolTip": "assets\\myMovieStore.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T17:28:40.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MovieStore.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreApp\\ViewControllers\\MovieStore.cs",
+              "RelativeDocumentMoniker": "ViewControllers\\MovieStore.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreApp\\ViewControllers\\MovieStore.cs",
+              "RelativeToolTip": "ViewControllers\\MovieStore.cs",
+              "ViewState": "AQIAAF4AAAAAz8zMzEwTwG8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:24:02.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieStoreManager.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreApp\\Repository\\MovieStoreManager.cs",
+              "RelativeDocumentMoniker": "Repository\\MovieStoreManager.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreApp\\Repository\\MovieStoreManager.cs",
+              "RelativeToolTip": "Repository\\MovieStoreManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:36:42.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSerializer.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreApp\\Services\\DataSerializer.cs",
+              "RelativeDocumentMoniker": "Services\\DataSerializer.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreApp\\Services\\DataSerializer.cs",
+              "RelativeToolTip": "Services\\DataSerializer.cs",
+              "ViewState": "AQIAAAwAAAAABAAAAAD6vxUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:30:26.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Movie.cs",
               "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreApp\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "Models\\Movie.cs",
               "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreApp\\Models\\Movie.cs",
               "RelativeToolTip": "Models\\Movie.cs",
-              "ViewState": "AQIAAAsAAAAA//////8NwB4AAAAgAAAA",
+              "ViewState": "AQIAAAEAAABA//////8CwB4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T16:53:53.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T16:53:53.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAwAAABAmZmZmRkTwAAAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T16:53:17.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T16:53:17.336Z"
             }
           ]
         }
