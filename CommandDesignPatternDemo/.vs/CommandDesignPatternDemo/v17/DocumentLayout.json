@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\Assignments\\TrainingSwabhav\\CommandDesignPatternDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9015386F-C2FD-4B5C-A4FD-5B9B65DBDE27}|CommandDesignPatternDemo.csproj|d:\\training\\assignments\\trainingswabhav\\commanddesignpatterndemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9015386F-C2FD-4B5C-A4FD-5B9B65DBDE27}|CommandDesignPatternDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9015386F-C2FD-4B5C-A4FD-5B9B65DBDE27}|CommandDesignPatternDemo.csproj|d:\\training\\assignments\\trainingswabhav\\commanddesignpatterndemo\\models\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9015386F-C2FD-4B5C-A4FD-5B9B65DBDE27}|CommandDesignPatternDemo.csproj|solutionrelative:models\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9015386F-C2FD-4B5C-A4FD-5B9B65DBDE27}|CommandDesignPatternDemo.csproj|d:\\training\\assignments\\trainingswabhav\\commanddesignpatterndemo\\models\\television.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9015386F-C2FD-4B5C-A4FD-5B9B65DBDE27}|CommandDesignPatternDemo.csproj|solutionrelative:models\\television.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9015386F-C2FD-4B5C-A4FD-5B9B65DBDE27}|CommandDesignPatternDemo.csproj|d:\\training\\assignments\\trainingswabhav\\commanddesignpatterndemo\\models\\oncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9015386F-C2FD-4B5C-A4FD-5B9B65DBDE27}|CommandDesignPatternDemo.csproj|solutionrelative:models\\oncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9015386F-C2FD-4B5C-A4FD-5B9B65DBDE27}|CommandDesignPatternDemo.csproj|d:\\training\\assignments\\trainingswabhav\\commanddesignpatterndemo\\models\\offcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9015386F-C2FD-4B5C-A4FD-5B9B65DBDE27}|CommandDesignPatternDemo.csproj|solutionrelative:models\\offcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9015386F-C2FD-4B5C-A4FD-5B9B65DBDE27}|CommandDesignPatternDemo.csproj|d:\\training\\assignments\\trainingswabhav\\commanddesignpatterndemo\\models\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9015386F-C2FD-4B5C-A4FD-5B9B65DBDE27}|CommandDesignPatternDemo.csproj|solutionrelative:models\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoteControl.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CommandDesignPatternDemo\\Models\\RemoteControl.cs",
+              "RelativeDocumentMoniker": "Models\\RemoteControl.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CommandDesignPatternDemo\\Models\\RemoteControl.cs",
+              "RelativeToolTip": "Models\\RemoteControl.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:08:35.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OffCommand.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CommandDesignPatternDemo\\Models\\OffCommand.cs",
+              "RelativeDocumentMoniker": "Models\\OffCommand.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CommandDesignPatternDemo\\Models\\OffCommand.cs",
+              "RelativeToolTip": "Models\\OffCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:08:18.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OnCommand.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CommandDesignPatternDemo\\Models\\OnCommand.cs",
+              "RelativeDocumentMoniker": "Models\\OnCommand.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CommandDesignPatternDemo\\Models\\OnCommand.cs",
+              "RelativeToolTip": "Models\\OnCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:08:09.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Television.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CommandDesignPatternDemo\\Models\\Television.cs",
+              "RelativeDocumentMoniker": "Models\\Television.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CommandDesignPatternDemo\\Models\\Television.cs",
+              "RelativeToolTip": "Models\\Television.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:07:57.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CommandDesignPatternDemo\\Models\\ICommand.cs",
+              "RelativeDocumentMoniker": "Models\\ICommand.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CommandDesignPatternDemo\\Models\\ICommand.cs",
+              "RelativeToolTip": "Models\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:07:41.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CommandDesignPatternDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CommandDesignPatternDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAACQmZmZmRkUwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:07:04.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
