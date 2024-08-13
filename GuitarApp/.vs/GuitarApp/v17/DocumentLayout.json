@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\GuitarApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|d:\\training\\guitarapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|d:\\training\\guitarapp\\models\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|solutionrelative:models\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|d:\\training\\guitarapp\\models\\guitarspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|solutionrelative:models\\guitarspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|d:\\training\\guitarapp\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|solutionrelative:models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Training\\GuitarApp\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "Models\\Inventory.cs",
+              "ToolTip": "D:\\Training\\GuitarApp\\Models\\Inventory.cs",
+              "RelativeToolTip": "Models\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:27:49.987Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuitarSpecs.cs",
+              "DocumentMoniker": "D:\\Training\\GuitarApp\\Models\\GuitarSpecs.cs",
+              "RelativeDocumentMoniker": "Models\\GuitarSpecs.cs",
+              "ToolTip": "D:\\Training\\GuitarApp\\Models\\GuitarSpecs.cs",
+              "RelativeToolTip": "Models\\GuitarSpecs.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T16:17:04.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guitar.cs",
+              "DocumentMoniker": "D:\\Training\\GuitarApp\\Models\\Guitar.cs",
+              "RelativeDocumentMoniker": "Models\\Guitar.cs",
+              "ToolTip": "D:\\Training\\GuitarApp\\Models\\Guitar.cs",
+              "RelativeToolTip": "Models\\Guitar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:27:38.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\GuitarApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Training\\GuitarApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAB4zMzMzOw5wBMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:23:55.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
