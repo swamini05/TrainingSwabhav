@@ -1,0 +1,14 @@
+D:\Training\DogDoorApp\bin\Debug\net8.0\DogDoorApp.exe
+D:\Training\DogDoorApp\bin\Debug\net8.0\DogDoorApp.deps.json
+D:\Training\DogDoorApp\bin\Debug\net8.0\DogDoorApp.runtimeconfig.json
+D:\Training\DogDoorApp\bin\Debug\net8.0\DogDoorApp.dll
+D:\Training\DogDoorApp\bin\Debug\net8.0\DogDoorApp.pdb
+D:\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.AssemblyInfoInputs.cache
+D:\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.AssemblyInfo.cs
+D:\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.csproj.CoreCompileInputs.cache
+D:\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.dll
+D:\Training\DogDoorApp\obj\Debug\net8.0\refint\DogDoorApp.dll
+D:\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.pdb
+D:\Training\DogDoorApp\obj\Debug\net8.0\DogDoorApp.genruntimeconfig.cache
+D:\Training\DogDoorApp\obj\Debug\net8.0\ref\DogDoorApp.dll
