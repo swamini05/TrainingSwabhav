@@ -1,0 +1,14 @@
+D:\Training\TicTacToeFasade\bin\Debug\net8.0\TicTacToeFasade.exe
+D:\Training\TicTacToeFasade\bin\Debug\net8.0\TicTacToeFasade.deps.json
+D:\Training\TicTacToeFasade\bin\Debug\net8.0\TicTacToeFasade.runtimeconfig.json
+D:\Training\TicTacToeFasade\bin\Debug\net8.0\TicTacToeFasade.dll
+D:\Training\TicTacToeFasade\bin\Debug\net8.0\TicTacToeFasade.pdb
+D:\Training\TicTacToeFasade\obj\Debug\net8.0\TicTacToeFasade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\TicTacToeFasade\obj\Debug\net8.0\TicTacToeFasade.AssemblyInfoInputs.cache
+D:\Training\TicTacToeFasade\obj\Debug\net8.0\TicTacToeFasade.AssemblyInfo.cs
+D:\Training\TicTacToeFasade\obj\Debug\net8.0\TicTacToeFasade.csproj.CoreCompileInputs.cache
+D:\Training\TicTacToeFasade\obj\Debug\net8.0\TicTacToeFasade.dll
+D:\Training\TicTacToeFasade\obj\Debug\net8.0\refint\TicTacToeFasade.dll
+D:\Training\TicTacToeFasade\obj\Debug\net8.0\TicTacToeFasade.pdb
+D:\Training\TicTacToeFasade\obj\Debug\net8.0\TicTacToeFasade.genruntimeconfig.cache
+D:\Training\TicTacToeFasade\obj\Debug\net8.0\ref\TicTacToeFasade.dll
