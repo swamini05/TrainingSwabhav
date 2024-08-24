@@ -40,7 +40,7 @@
 
                 if (IsGameOver())
                 {
-                    Console.WriteLine($"It's a {resultAnalyzer.GetResult()}!");
+                    Console.WriteLine((resultAnalyzer.GetResult() == ResultType.Draw) ? $"It's a {resultAnalyzer.GetResult()}!" : $"{resultAnalyzer.GetResult()} {currentPlayer.Name} wins!");
                 }
                 else
                 {

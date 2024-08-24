@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Training\\TicTacToeFasade\\",
+  "WorkspaceRootPath": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\tictactoefasade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\tictactoefasade\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\assignments\\trainingswabhav\\tictactoefasade\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\tictactoefasade\\models\\resulttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\assignments\\trainingswabhav\\tictactoefasade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\assignments\\trainingswabhav\\tictactoefasade\\models\\resulttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|solutionrelative:models\\resulttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\tictactoefasade\\models\\resultanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\assignments\\trainingswabhav\\tictactoefasade\\models\\resultanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|solutionrelative:models\\resultanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\tictactoefasade\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\assignments\\trainingswabhav\\tictactoefasade\\models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|solutionrelative:models\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\tictactoefasade\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\assignments\\trainingswabhav\\tictactoefasade\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|solutionrelative:models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\tictactoefasade\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\assignments\\trainingswabhav\\tictactoefasade\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\tictactoefasade\\models\\marktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\assignments\\trainingswabhav\\tictactoefasade\\models\\marktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|solutionrelative:models\\marktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\tictactoefasade\\exceptions\\invalidcellindexexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\assignments\\trainingswabhav\\tictactoefasade\\exceptions\\invalidcellindexexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|solutionrelative:exceptions\\invalidcellindexexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\tictactoefasade\\exceptions\\invalidcelllocationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\assignments\\trainingswabhav\\tictactoefasade\\exceptions\\invalidcelllocationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|solutionrelative:exceptions\\invalidcelllocationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\tictactoefasade\\exceptions\\cellalreadymarkedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|d:\\training\\assignments\\trainingswabhav\\tictactoefasade\\exceptions\\cellalreadymarkedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65AAA830-8FEB-4D53-BA81-408932721F55}|TicTacToeFasade.csproj|solutionrelative:exceptions\\cellalreadymarkedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,30 +54,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Cell.cs",
-              "DocumentMoniker": "D:\\Training\\TicTacToeFasade\\Models\\Cell.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\Cell.cs",
               "RelativeDocumentMoniker": "Models\\Cell.cs",
-              "ToolTip": "D:\\Training\\TicTacToeFasade\\Models\\Cell.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\Cell.cs",
               "RelativeToolTip": "Models\\Cell.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:38:20.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T05:38:20.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Game.cs",
-              "DocumentMoniker": "D:\\Training\\TicTacToeFasade\\Models\\Game.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\Game.cs",
               "RelativeDocumentMoniker": "Models\\Game.cs",
-              "ToolTip": "D:\\Training\\TicTacToeFasade\\Models\\Game.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\Game.cs",
               "RelativeToolTip": "Models\\Game.cs",
-              "ViewState": "AQIAAB4AAABgmZmZmdktwDAAAAANAAAA",
+              "ViewState": "AQIAABkAAABAMzMzMzMZwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T05:46:24.799Z",
               "EditorCaption": ""
@@ -86,76 +85,71 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ResultAnalyzer.cs",
-              "DocumentMoniker": "D:\\Training\\TicTacToeFasade\\Models\\ResultAnalyzer.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\ResultAnalyzer.cs",
               "RelativeDocumentMoniker": "Models\\ResultAnalyzer.cs",
-              "ToolTip": "D:\\Training\\TicTacToeFasade\\Models\\ResultAnalyzer.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\ResultAnalyzer.cs",
               "RelativeToolTip": "Models\\ResultAnalyzer.cs",
               "ViewState": "AQIAADcAAABwZmZmZiYtwEoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:44:27.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T05:44:27.125Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ResultType.cs",
-              "DocumentMoniker": "D:\\Training\\TicTacToeFasade\\Models\\ResultType.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\ResultType.cs",
               "RelativeDocumentMoniker": "Models\\ResultType.cs",
-              "ToolTip": "D:\\Training\\TicTacToeFasade\\Models\\ResultType.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\ResultType.cs",
               "RelativeToolTip": "Models\\ResultType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:41:39.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T05:41:39.924Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "MarkType.cs",
-              "DocumentMoniker": "D:\\Training\\TicTacToeFasade\\Models\\MarkType.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\MarkType.cs",
               "RelativeDocumentMoniker": "Models\\MarkType.cs",
-              "ToolTip": "D:\\Training\\TicTacToeFasade\\Models\\MarkType.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\MarkType.cs",
               "RelativeToolTip": "Models\\MarkType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:37:44.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T05:37:44.567Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Player.cs",
-              "DocumentMoniker": "D:\\Training\\TicTacToeFasade\\Models\\Player.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\Player.cs",
               "RelativeDocumentMoniker": "Models\\Player.cs",
-              "ToolTip": "D:\\Training\\TicTacToeFasade\\Models\\Player.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\Player.cs",
               "RelativeToolTip": "Models\\Player.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:45:16.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T05:45:16.352Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Board.cs",
-              "DocumentMoniker": "D:\\Training\\TicTacToeFasade\\Models\\Board.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\Board.cs",
               "RelativeDocumentMoniker": "Models\\Board.cs",
-              "ToolTip": "D:\\Training\\TicTacToeFasade\\Models\\Board.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Models\\Board.cs",
               "RelativeToolTip": "Models\\Board.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAkwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T05:38:13.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T05:38:13.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Training\\TicTacToeFasade\\Program.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Training\\TicTacToeFasade\\Program.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBoAAAAJAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T05:34:59.418Z",
               "EditorCaption": ""
@@ -164,35 +158,33 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "InvalidCellIndexException.cs",
-              "DocumentMoniker": "D:\\Training\\TicTacToeFasade\\Exceptions\\InvalidCellIndexException.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Exceptions\\InvalidCellIndexException.cs",
               "RelativeDocumentMoniker": "Exceptions\\InvalidCellIndexException.cs",
-              "ToolTip": "D:\\Training\\TicTacToeFasade\\Exceptions\\InvalidCellIndexException.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Exceptions\\InvalidCellIndexException.cs",
               "RelativeToolTip": "Exceptions\\InvalidCellIndexException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T06:07:04.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T06:07:04.462Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "InvalidCellLocationException.cs",
-              "DocumentMoniker": "D:\\Training\\TicTacToeFasade\\Exceptions\\InvalidCellLocationException.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Exceptions\\InvalidCellLocationException.cs",
               "RelativeDocumentMoniker": "Exceptions\\InvalidCellLocationException.cs",
-              "ToolTip": "D:\\Training\\TicTacToeFasade\\Exceptions\\InvalidCellLocationException.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Exceptions\\InvalidCellLocationException.cs",
               "RelativeToolTip": "Exceptions\\InvalidCellLocationException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T06:06:25.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T06:06:25.505Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "CellAlreadyMarkedException.cs",
-              "DocumentMoniker": "D:\\Training\\TicTacToeFasade\\Exceptions\\CellAlreadyMarkedException.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Exceptions\\CellAlreadyMarkedException.cs",
               "RelativeDocumentMoniker": "Exceptions\\CellAlreadyMarkedException.cs",
-              "ToolTip": "D:\\Training\\TicTacToeFasade\\Exceptions\\CellAlreadyMarkedException.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\Exceptions\\CellAlreadyMarkedException.cs",
               "RelativeToolTip": "Exceptions\\CellAlreadyMarkedException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

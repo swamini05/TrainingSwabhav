@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training\\TicTacToeFasade\\TicTacToeFasade.csproj": {}
+    "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\TicTacToeFasade.csproj": {}
   },
   "projects": {
-    "D:\\Training\\TicTacToeFasade\\TicTacToeFasade.csproj": {
+    "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\TicTacToeFasade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\TicTacToeFasade\\TicTacToeFasade.csproj",
+        "projectUniqueName": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\TicTacToeFasade.csproj",
         "projectName": "TicTacToeFasade",
-        "projectPath": "D:\\Training\\TicTacToeFasade\\TicTacToeFasade.csproj",
+        "projectPath": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\TicTacToeFasade.csproj",
         "packagesPath": "C:\\Users\\swamini.chaudhari\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\TicTacToeFasade\\obj\\",
+        "outputPath": "D:\\Training\\Assignments\\TrainingSwabhav\\TicTacToeFasade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\swamini.chaudhari\\AppData\\Roaming\\NuGet\\NuGet.Config",
