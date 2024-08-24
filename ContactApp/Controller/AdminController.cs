@@ -23,7 +23,8 @@ namespace ContactApp.Controller
                 Console.WriteLine("2. Update or Modify Existing User");
                 Console.WriteLine("3. Delete User");
                 Console.WriteLine("4. Display All Users");
-                Console.WriteLine("5. Logout");
+                Console.WriteLine("5. Find User");
+                Console.WriteLine("6. Logout");
 
                 try
                 {
@@ -48,6 +49,9 @@ namespace ContactApp.Controller
                             DisplayAllUsers();
                             break;
                         case 5:
+                            FindUser();
+                            break;
+                        case 6:
                             exit = true;
                             break;
                         default:
@@ -92,8 +96,10 @@ namespace ContactApp.Controller
             user.LastName = Console.ReadLine();
             Console.WriteLine("Is Admin (true/false):");
             user.IsAdmin = bool.Parse(Console.ReadLine());
+            Console.WriteLine("Is Active (true/false):");
+            user.IsActive = bool.Parse(Console.ReadLine());
 
-            AdminService.UpdateUser(userId, user.FirstName, user.LastName, user.IsAdmin);
+            AdminService.UpdateUser(userId, user.FirstName, user.LastName, user.IsAdmin, user.IsActive);
             Console.WriteLine("User updated successfully.");
         }
 
@@ -104,6 +110,14 @@ namespace ContactApp.Controller
 
             AdminService.DeleteUser(userId);
             Console.WriteLine("User deleted successfully.");
+        }
+        public static void FindUser()
+        {
+            Console.WriteLine("Enter User ID to find user:");
+            int userId = int.Parse(Console.ReadLine());
+
+            var user = AdminService.ReadUser(userId);
+            Console.WriteLine(user);
         }
 
         public static void DisplayAllUsers()

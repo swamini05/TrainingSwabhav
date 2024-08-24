@@ -14,7 +14,7 @@ namespace ContactApp.Repository
 
         public static bool CheckUser(int userId)
         {
-            var user = users.Find(user => user.UserId == userId && user.IsActive);
+            var user = users.Find(user => user.UserId == userId);
             if (user == null)
             {
                 return false;
@@ -24,7 +24,7 @@ namespace ContactApp.Repository
 
         public static User ReadUser(int userId)
         {
-            var user = users.Find(user => user.UserId == userId && user.IsActive);
+            var user = users.Find(user => user.UserId == userId);
             if (user == null)
             {
                 throw new UserNotFoundException("User not found.");
@@ -32,7 +32,7 @@ namespace ContactApp.Repository
             return user;
         }
 
-        public static void UpdateUser(int userId, string firstName, string lastName, bool isAdmin)
+        public static void UpdateUser(int userId, string firstName, string lastName, bool isAdmin, bool isActive)
         {
             User user = ReadUser(userId);
             if (user != null)
@@ -40,17 +40,19 @@ namespace ContactApp.Repository
                 user.FirstName = firstName;
                 user.LastName = lastName;
                 user.IsAdmin = isAdmin;
+                user.IsActive = isActive;
             }
         }
 
         public static void DeleteUser(int userId)
         {
             User user = ReadUser(userId);
+            if (!user.IsActive) throw new UserInactiveException("User is already Inactive");
             user.Deactivate();
         }
         public static List<User> GetAllUsers()
         {
-            return users.Where(user => user.IsActive).ToList();
+            return users.ToList();
         }
     }
 }

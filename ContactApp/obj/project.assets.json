@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\ContactApp\\ContactApp.csproj",
+      "projectUniqueName": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\ContactApp.csproj",
       "projectName": "ContactApp",
-      "projectPath": "D:\\Training\\ContactApp\\ContactApp.csproj",
+      "projectPath": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\ContactApp.csproj",
       "packagesPath": "C:\\Users\\swamini.chaudhari\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\ContactApp\\obj\\",
+      "outputPath": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\swamini.chaudhari\\AppData\\Roaming\\NuGet\\NuGet.Config",
