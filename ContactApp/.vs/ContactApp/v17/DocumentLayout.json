@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\ContactApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\contactapp\\controller\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:controller\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\contactapp\\repository\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:repository\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\contactapp\\controller\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:controller\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\contactapp\\models\\contactdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:models\\contactdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\contactapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\contactapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactDetails.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp\\Models\\ContactDetails.cs",
+              "RelativeDocumentMoniker": "Models\\ContactDetails.cs",
+              "ToolTip": "D:\\Training\\ContactApp\\Models\\ContactDetails.cs",
+              "RelativeToolTip": "Models\\ContactDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:49:05.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "D:\\Training\\ContactApp\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AQIAAAoAAACQmZmZmXkxwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:38:04.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp\\Controller\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Controller\\UserLogin.cs",
+              "ToolTip": "D:\\Training\\ContactApp\\Controller\\UserLogin.cs",
+              "RelativeToolTip": "Controller\\UserLogin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAMA9wBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:30:59.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp\\Controller\\StaffController.cs",
+              "RelativeDocumentMoniker": "Controller\\StaffController.cs",
+              "ToolTip": "D:\\Training\\ContactApp\\Controller\\StaffController.cs",
+              "RelativeToolTip": "Controller\\StaffController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAD4vxwBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:30:58.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp\\Repository\\StaffService.cs",
+              "RelativeDocumentMoniker": "Repository\\StaffService.cs",
+              "ToolTip": "D:\\Training\\ContactApp\\Repository\\StaffService.cs",
+              "RelativeToolTip": "Repository\\StaffService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwGAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:30:41.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\ContactApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Training\\ContactApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T04:44:39.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

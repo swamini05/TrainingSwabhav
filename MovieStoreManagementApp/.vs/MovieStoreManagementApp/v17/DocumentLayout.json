@@ -35,8 +35,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-25T15:17:42.334Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -46,7 +45,7 @@
               "RelativeDocumentMoniker": "MovieStoreLibrary\\Repository\\MovieStoreManager.cs",
               "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\MovieStoreManagementApp\\MovieStoreLibrary\\Repository\\MovieStoreManager.cs",
               "RelativeToolTip": "MovieStoreLibrary\\Repository\\MovieStoreManager.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAkwEgAAAAFAAAA",
+              "ViewState": "AQIAABkAAADM/////38fwB4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T09:10:18.504Z",
               "EditorCaption": ""

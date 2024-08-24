@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training\\ProductSupplierDb\\ProductSupplierDb.csproj": {}
+    "D:\\Training\\Assignments\\TrainingSwabhav\\ProductSupplierDb\\ProductSupplierDb.csproj": {}
   },
   "projects": {
-    "D:\\Training\\ProductSupplierDb\\ProductSupplierDb.csproj": {
+    "D:\\Training\\Assignments\\TrainingSwabhav\\ProductSupplierDb\\ProductSupplierDb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\ProductSupplierDb\\ProductSupplierDb.csproj",
+        "projectUniqueName": "D:\\Training\\Assignments\\TrainingSwabhav\\ProductSupplierDb\\ProductSupplierDb.csproj",
         "projectName": "ProductSupplierDb",
-        "projectPath": "D:\\Training\\ProductSupplierDb\\ProductSupplierDb.csproj",
+        "projectPath": "D:\\Training\\Assignments\\TrainingSwabhav\\ProductSupplierDb\\ProductSupplierDb.csproj",
         "packagesPath": "C:\\Users\\swamini.chaudhari\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\ProductSupplierDb\\obj\\",
+        "outputPath": "D:\\Training\\Assignments\\TrainingSwabhav\\ProductSupplierDb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\swamini.chaudhari\\AppData\\Roaming\\NuGet\\NuGet.Config",
