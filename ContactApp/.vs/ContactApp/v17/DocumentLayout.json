@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\assignments\\trainingswabhav\\contactapp\\models\\contactdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:models\\contactdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\assignments\\trainingswabhav\\contactapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\assignments\\trainingswabhav\\contactapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\assignments\\trainingswabhav\\contactapp\\repository\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:repository\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,18 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\assignments\\trainingswabhav\\contactapp\\controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:controller\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\assignments\\trainingswabhav\\contactapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\assignments\\trainingswabhav\\contactapp\\models\\contactdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:models\\contactdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|d:\\training\\assignments\\trainingswabhav\\contactapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED404A7D-422E-4D0B-8DE9-AB4935A702BB}|ContactApp.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,20 +50,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminService.cs",
-              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Repository\\AdminService.cs",
-              "RelativeDocumentMoniker": "Repository\\AdminService.cs",
-              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Repository\\AdminService.cs",
-              "RelativeToolTip": "Repository\\AdminService.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAkwCoAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T07:57:47.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Controller\\AdminController.cs",
               "RelativeDocumentMoniker": "Controller\\AdminController.cs",
@@ -71,37 +58,37 @@
               "RelativeToolTip": "Controller\\AdminController.cs",
               "ViewState": "AQIAAFAAAAAA/v///z8vwGUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T07:41:55.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T07:41:55.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAABIAAAAANjMzMzPvvxwAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-24T07:30:56.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Contact.cs",
               "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "Models\\Contact.cs",
               "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Models\\Contact.cs",
               "RelativeToolTip": "Models\\Contact.cs",
-              "ViewState": "AQIAAAoAAACQmZmZmXkxwBYAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T04:38:04.86Z"
+              "WhenOpened": "2024-08-22T04:38:04.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserLogin.cs",
               "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Controller\\UserLogin.cs",
               "RelativeDocumentMoniker": "Controller\\UserLogin.cs",
@@ -109,12 +96,11 @@
               "RelativeToolTip": "Controller\\UserLogin.cs",
               "ViewState": "AQIAAAkAAACgmZmZmZktwBYAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T04:30:59.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T04:30:59.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "StaffController.cs",
               "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Controller\\StaffController.cs",
               "RelativeDocumentMoniker": "Controller\\StaffController.cs",
@@ -122,12 +108,11 @@
               "RelativeToolTip": "Controller\\StaffController.cs",
               "ViewState": "AQIAABcAAAAAQDMzMzPzvy8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T04:30:58.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T04:30:58.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -135,33 +120,45 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T04:44:39.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T04:44:39.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "StaffService.cs",
               "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Repository\\StaffService.cs",
               "RelativeDocumentMoniker": "Repository\\StaffService.cs",
               "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Repository\\StaffService.cs",
               "RelativeToolTip": "Repository\\StaffService.cs",
-              "ViewState": "AQIAAA8AAAAGAAAAAIAywBcAAAAeAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAD4vxcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T04:30:41.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "ContactDetails.cs",
               "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Models\\ContactDetails.cs",
               "RelativeDocumentMoniker": "Models\\ContactDetails.cs",
               "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Models\\ContactDetails.cs",
               "RelativeToolTip": "Models\\ContactDetails.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T15:49:05.975Z"
+              "WhenOpened": "2024-08-22T15:49:05.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Repository\\AdminService.cs",
+              "RelativeDocumentMoniker": "Repository\\AdminService.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\ContactApp\\Repository\\AdminService.cs",
+              "RelativeToolTip": "Repository\\AdminService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T07:57:47.749Z"
             }
           ]
         }
