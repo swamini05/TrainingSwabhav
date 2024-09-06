@@ -1,0 +1,30 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Login", "Session", FormMethod.Post))
+        {
+            <div>
+                <label>Username</label>
+                <input type="text" name="username" />
+            </div>
+            <div>
+                <label>Password</label>
+                <input type="password" name="password" />
+            </div>
+            <div>
+                <input type="submit" value="Login" />
+            </div>
+        }
+        <p>@ViewBag.Message</p>
+        <p>@TempData["TimeoutMessage"]</p>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    
+    <meta name="viewport" content="width=device-width" />
+    <title>Welcome</title>
+</head>
+<body>
+    <div>
+        @using System.Web.Configuration
+
+        <h2>Welcome, @ViewBag.User!</h2>
+        <p><a href="@Url.Action("GetDetails", "Session")">EnterTask</a></p>
+        <p><a href="@Url.Action("Logout", "Session")">Logout</a></p>
+
+    </div>
+</body>
+</html>

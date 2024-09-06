@@ -1,0 +1,40 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    
+    <meta name="viewport" content="width=device-width" />
+    <title>Welcome</title>
+</head>
+<body>
+    <div>
+        @* Welcome.cshtml *@
+        @using System.Web.Configuration
+        @{
+            var sessionTimeout = HttpContext.Current.Session.Timeout; // Get session timeout from server
+            var sessionTimeoutMilliseconds = sessionTimeout * 60000; // Convert to milliseconds
+        }
+
+        <input type="hidden" id="sessionTimeout" value="@sessionTimeoutMilliseconds" />
+
+        <h2>Welcome, @ViewBag.User!</h2>
+        <p><a href="@Url.Action("Logout", "Session")">Logout</a></p>
+
+    </div>
+    <script type="text/javascript">
+        // Get the session timeout value from the hidden field
+        var sessionTimeout = parseInt(document.getElementById('sessionTimeout').value);
+
+        // Set a timer to check for session timeout
+        setTimeout(function () {
+            alert("Session expired. You will be redirected to the login page.");
+            window.location.href = '@Url.Action("Login", "Session")';
+        }, sessionTimeout);
+    </script>
+</body>
+</html>
