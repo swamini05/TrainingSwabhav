@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Training\\GuitarApp\\",
+  "WorkspaceRootPath": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|d:\\training\\guitarapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|d:\\training\\assignments\\trainingswabhav\\guitarapp\\models\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|solutionrelative:models\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|d:\\training\\guitarapp\\models\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|d:\\training\\assignments\\trainingswabhav\\guitarapp\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|solutionrelative:models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|d:\\training\\assignments\\trainingswabhav\\guitarapp\\models\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|solutionrelative:models\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|d:\\training\\guitarapp\\models\\guitarspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|solutionrelative:models\\guitarspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|d:\\training\\assignments\\trainingswabhav\\guitarapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|d:\\training\\guitarapp\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|solutionrelative:models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|d:\\training\\assignments\\trainingswabhav\\guitarapp\\models\\guitarspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92581067-0C44-4338-81F3-2D442B53CD17}|GuitarApp.csproj|solutionrelative:models\\guitarspecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +30,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Inventory.cs",
-              "DocumentMoniker": "D:\\Training\\GuitarApp\\Models\\Inventory.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\Models\\Inventory.cs",
               "RelativeDocumentMoniker": "Models\\Inventory.cs",
-              "ToolTip": "D:\\Training\\GuitarApp\\Models\\Inventory.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\Models\\Inventory.cs",
               "RelativeToolTip": "Models\\Inventory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T04:27:49.987Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\Models\\Builder.cs",
+              "RelativeDocumentMoniker": "Models\\Builder.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\Models\\Builder.cs",
+              "RelativeToolTip": "Models\\Builder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:32:44.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Guitar.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\Models\\Guitar.cs",
+              "RelativeDocumentMoniker": "Models\\Guitar.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\Models\\Guitar.cs",
+              "RelativeToolTip": "Models\\Guitar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:27:38.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GuitarSpecs.cs",
-              "DocumentMoniker": "D:\\Training\\GuitarApp\\Models\\GuitarSpecs.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\Models\\GuitarSpecs.cs",
               "RelativeDocumentMoniker": "Models\\GuitarSpecs.cs",
-              "ToolTip": "D:\\Training\\GuitarApp\\Models\\GuitarSpecs.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\Models\\GuitarSpecs.cs",
               "RelativeToolTip": "Models\\GuitarSpecs.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAowBAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,25 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Guitar.cs",
-              "DocumentMoniker": "D:\\Training\\GuitarApp\\Models\\Guitar.cs",
-              "RelativeDocumentMoniker": "Models\\Guitar.cs",
-              "ToolTip": "D:\\Training\\GuitarApp\\Models\\Guitar.cs",
-              "RelativeToolTip": "Models\\Guitar.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T04:27:38.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Training\\GuitarApp\\Program.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Training\\GuitarApp\\Program.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAUAAAB4zMzMzOw5wBMAAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T04:23:55.035Z",
               "EditorCaption": ""

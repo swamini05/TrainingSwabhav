@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\GuitarApp\\GuitarApp.csproj",
+      "projectUniqueName": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\GuitarApp.csproj",
       "projectName": "GuitarApp",
-      "projectPath": "D:\\Training\\GuitarApp\\GuitarApp.csproj",
+      "projectPath": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\GuitarApp.csproj",
       "packagesPath": "C:\\Users\\swamini.chaudhari\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\GuitarApp\\obj\\",
+      "outputPath": "D:\\Training\\Assignments\\TrainingSwabhav\\GuitarApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\swamini.chaudhari\\AppData\\Roaming\\NuGet\\NuGet.Config",

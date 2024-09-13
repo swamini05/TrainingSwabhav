@@ -1,0 +1,41 @@
+﻿@model HashingDemo.Models.User
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div>
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        @using (Html.BeginForm("Login", "User", FormMethod.Post))
+        {
+            <div>
+                <label>Username</label>
+                <input type="text" name="username" />
+            </div>
+            <div>
+                <label>Password</label>
+                <input type="password" name="password" />
+            </div>
+            <div>
+                <input type="submit" value="Login" />
+            </div>
+            <br />
+            <div>
+                New to the page?
+            </div>
+            <div>
+                <button type="button" onclick="window.location.href='@Url.Action("Create", "User")'">Create User</button>
+            </div>
+        }
+    </div>
+</body>
+</html>

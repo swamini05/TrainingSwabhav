@@ -1,0 +1,23 @@
+﻿@model CookieDemo.Models.User
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Welcome</title>
+</head>
+<body>
+    <div>
+        @{
+            ViewBag.Title = "Welcome";
+        }
+
+        <h2>Welcome, @ViewBag.Username!</h2>
+
+    </div>
+    <div>
+        <button type="button" onclick="window.location.href='@Url.Action("Logout", "User")'">Logout</button>
+    </div>
+</body>
+</html>
