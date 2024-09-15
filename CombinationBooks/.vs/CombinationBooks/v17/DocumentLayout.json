@@ -1,0 +1,514 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|d:\\training\\assignments\\trainingswabhav\\combinationbooks\\combinationbooks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\authordetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\authordetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\authordetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\authordetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\authordetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\authordetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\book\\bookdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\book\\bookdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\user\\showbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\user\\showbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\controllers\\authordetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\controllers\\authordetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\author\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BooksDb/True/SqlTable/dbo.Authors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\mappings\\authormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\mappings\\authormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\author\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\author\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\data\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\models\\authordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\models\\authordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\mappings\\bookmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\mappings\\bookmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\mappings\\authordetailsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\mappings\\authordetailsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\combinationbooks\\views\\author\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{582E4CB1-E5F1-4B22-B5FE-18E5E3F822E0}|CombinationBooks\\CombinationBooks.csproj|solutionrelative:combinationbooks\\views\\author\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\AuthorDetails\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\AuthorDetails\\Edit.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\AuthorDetails\\Edit.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\AuthorDetails\\Edit.cshtml",
+              "ViewState": "AQIAADgAAAAAMzMzM/MmwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T12:25:19.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\AuthorDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\AuthorDetails\\Index.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\AuthorDetails\\Index.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\AuthorDetails\\Index.cshtml",
+              "ViewState": "AQIAABoAAAAAXGZmZmb0vycAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T13:24:22.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\AuthorDetails\\Create.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\AuthorDetails\\Create.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\AuthorDetails\\Create.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\AuthorDetails\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T07:29:36.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDetails.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Book\\BookDetails.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\Book\\BookDetails.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Book\\BookDetails.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\Book\\BookDetails.cshtml",
+              "ViewState": "AQIAACgAAACAmpmZmdklwDkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T18:00:33.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AQIAACUAAACwZ2ZmZuYcwAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T18:14:49.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AQIAACoAAABAZmZmZiYiwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T18:11:34.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAACAZ2ZmZmYUwBkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T18:46:49.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAIUAAAAAaGZmZmbiv5UAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T08:39:15.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\Book\\Create.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\Book\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAzczMzMwXwAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T18:04:01.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShowBooks.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\User\\ShowBooks.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\User\\ShowBooks.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\User\\ShowBooks.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\User\\ShowBooks.cshtml",
+              "ViewState": "AQIAABUAAADgzMzMzAwuwCcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T09:04:40.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAGoAAACAmpmZmZkewHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T10:07:35.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CombinationBooks\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB8AAACgmZmZmZkmwD8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:39:10.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthorDetailsController.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Controllers\\AuthorDetailsController.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\Controllers\\AuthorDetailsController.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Controllers\\AuthorDetailsController.cs",
+              "RelativeToolTip": "CombinationBooks\\Controllers\\AuthorDetailsController.cs",
+              "ViewState": "AQIAAEsAAAAAcGZmZuYYwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:54:41.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Controllers\\BookController.cs",
+              "RelativeToolTip": "CombinationBooks\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAApwC4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:54:56.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "CombinationBooks\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:44:57.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Author\\Index.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\Author\\Index.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Author\\Index.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\Author\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T05:45:44.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "CombinationBooks\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwCgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:38:17.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.Authors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BooksDb/True/SqlTable/dbo.Authors.sql",
+              "ToolTip": "dbo.Authors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-06T05:47:10.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Global.asax.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\Global.asax.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Global.asax.cs",
+              "RelativeToolTip": "CombinationBooks\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:50:11.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Web.config",
+              "RelativeDocumentMoniker": "CombinationBooks\\Web.config",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Web.config",
+              "RelativeToolTip": "CombinationBooks\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-14T18:50:36.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthorMap.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Mappings\\AuthorMap.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\Mappings\\AuthorMap.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Mappings\\AuthorMap.cs",
+              "RelativeToolTip": "CombinationBooks\\Mappings\\AuthorMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:24:32.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\Models\\Author.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Models\\Author.cs",
+              "RelativeToolTip": "CombinationBooks\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:20:28.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Author\\Create.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\Author\\Create.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Author\\Create.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\Author\\Create.cshtml",
+              "ViewState": "AQIAAAoAAABgmZmZmRkmwBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T06:15:39.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\Models\\Book.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Models\\Book.cs",
+              "RelativeToolTip": "CombinationBooks\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:20:35.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Author\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\Author\\Edit.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Author\\Edit.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\Author\\Edit.cshtml",
+              "ViewState": "AQIAABcAAACAzMzMzMwHwB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T06:45:57.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\ViewModels\\LoginVM.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "CombinationBooks\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:23:34.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Data\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\Data\\NHibernateHelper.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Data\\NHibernateHelper.cs",
+              "RelativeToolTip": "CombinationBooks\\Data\\NHibernateHelper.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:35:40.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthorDetails.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Models\\AuthorDetails.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\Models\\AuthorDetails.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Models\\AuthorDetails.cs",
+              "RelativeToolTip": "CombinationBooks\\Models\\AuthorDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:20:44.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookMap.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Mappings\\BookMap.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\Mappings\\BookMap.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Mappings\\BookMap.cs",
+              "RelativeToolTip": "CombinationBooks\\Mappings\\BookMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:24:23.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthorDetailsMap.cs",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Mappings\\AuthorDetailsMap.cs",
+              "RelativeDocumentMoniker": "CombinationBooks\\Mappings\\AuthorDetailsMap.cs",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Mappings\\AuthorDetailsMap.cs",
+              "RelativeToolTip": "CombinationBooks\\Mappings\\AuthorDetailsMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T05:24:43.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Author\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CombinationBooks\\Views\\Author\\Delete.cshtml",
+              "ToolTip": "D:\\Training\\Assignments\\TrainingSwabhav\\CombinationBooks\\CombinationBooks\\Views\\Author\\Delete.cshtml",
+              "RelativeToolTip": "CombinationBooks\\Views\\Author\\Delete.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T06:50:04.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body>
+    <div class="navbar navbar-dark bg-dark navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <span class="navbar-brand" style="font-size: 2rem; padding-top: 2px; padding-bottom: 2px; left: 20px;">Library</span>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <span class="navbar-text" style="position: absolute; font-size: 140%; left: 50%; transform: translateX(-50%); color: white; padding-top:0.7rem;">
+                        Welcome @User.Identity.Name
+                    </span>
+                    <button class="btn btn-secondary" style="border: 2px solid black; position: absolute; right: 10px; margin-top: 0.4rem" type="button" onclick="window.location.href='@Url.Action("Logout", "User")'">
+                        Logout
+                    </button>
+                }
+                <span style="cursor: pointer; color:white;" onmouseout="this.style.color = 'white';" onmouseover="this.style.color = 'grey'; " onclick="location.href='@Url.Action("ShowBooks", "User")'">
+                    List of Books
+                </span>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>
