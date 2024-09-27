@@ -1,0 +1,59 @@
+﻿@model IEnumerable<ContactAppMiniProject.Models.Contact>
+
+@{
+    ViewBag.Title = "UserDashboard";
+}
+
+<h2>UserDashboard</h2>
+
+<div class="container" id="contactList">
+    <p>
+        @if (!User.IsInRole("admin"))
+        {
+            <div>
+                <button type="button" class="btn btn-outline-success" id="btnAdd">
+                    Add New Contact
+                </button>
+            </div>
+        }
+
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.FirstName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.LastName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.IsActive)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody id="tblBody">
+            <!--data-->
+        </tbody>
+    </table>
+</div>
+<div id="newRecord" style="display:none" class="container">
+    @Html.Partial("_AddRecordPartial")
+</div>
+<div id="editRecord" style="display:none" class="container">
+    @Html.Partial("_EditRecordPartial")
+</div>
+@if (User.IsInRole("admin"))
+{
+    <div>
+        @Html.ActionLink("Back", null, null, new { onclick = "history.go(-1); return false;", @class = "btn btn-secondary" })
+    </div>
+}
+<script src="~/Scripts/jquery-3.7.1.min.js"></script>
+<script src="~/Scripts/MyCrud.js"></script>
+<script>
+    $(document).ready(() => {
+        loadItems();
+    })
+</script>

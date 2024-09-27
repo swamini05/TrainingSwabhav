@@ -1,0 +1,61 @@
+﻿@model ContactAppMiniProject.Models.Contact
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <h4>Contact</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.Id, new { @id = "Id", @name = "Id" })
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control", id = "contactFirstName" } })
+            @Html.ValidationMessageFor(model => model.FirstName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.LastName, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control", id = "contactLastName" } })
+            @Html.ValidationMessageFor(model => model.LastName, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.IsActive, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            <div class="checkbox">
+                @Html.EditorFor(model => model.IsActive, new { htmlAttributes = new { id = "contactIsActive" } })
+                @Html.ValidationMessageFor(model => model.IsActive, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            @Html.ActionLink("Back", "UserDashboard", "Contact", null, new { @class = "btn btn-secondary" })
+            <input type="button" value="Save" class="btn btn-primary" id="btnSave" />
+        </div>
+    </div>
+</div>
+}
+<script>
+    $("#btnSave").click(() => {
+        var data = {
+            Id: $("#Id").val(),
+            FirstName: $("#contactFirstName").val(),
+            LastName: $("#contactLastName").val(),
+            IsActive: $("#contactIsActive").is(":checked") // Get the correct value from the checkbox
+        };
+
+        modifyRecord(data);
+        $("#contactList").show();
+        $("#editRecord").hide();
+    });
+
+</script>

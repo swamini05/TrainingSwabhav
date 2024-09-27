@@ -12,6 +12,9 @@
             @Html.DisplayNameFor(model => model.Name)
         </th>
         <th>
+            <h6 style="font-weight: 700; margin-bottom:0px;">AuthorName</h6>
+        </th>
+        <th>
             @Html.DisplayNameFor(model => model.Genre)
         </th>
         <th>
@@ -25,6 +28,9 @@
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author.UserName)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Genre)

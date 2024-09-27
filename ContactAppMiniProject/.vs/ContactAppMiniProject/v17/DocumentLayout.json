@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\ContactAppMiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6774948-AE1A-466E-A2FE-1A4F6865FDBF}|ContactAppMiniProject\\ContactAppMiniProject.csproj|d:\\training\\contactappminiproject\\contactappminiproject\\controllers\\contactdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6774948-AE1A-466E-A2FE-1A4F6865FDBF}|ContactAppMiniProject\\ContactAppMiniProject.csproj|solutionrelative:contactappminiproject\\controllers\\contactdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6774948-AE1A-466E-A2FE-1A4F6865FDBF}|ContactAppMiniProject\\ContactAppMiniProject.csproj|d:\\training\\contactappminiproject\\contactappminiproject\\scripts\\mygrid.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B6774948-AE1A-466E-A2FE-1A4F6865FDBF}|ContactAppMiniProject\\ContactAppMiniProject.csproj|solutionrelative:contactappminiproject\\scripts\\mygrid.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6774948-AE1A-466E-A2FE-1A4F6865FDBF}|ContactAppMiniProject\\ContactAppMiniProject.csproj|d:\\training\\contactappminiproject\\contactappminiproject\\views\\contact\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6774948-AE1A-466E-A2FE-1A4F6865FDBF}|ContactAppMiniProject\\ContactAppMiniProject.csproj|solutionrelative:contactappminiproject\\views\\contact\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6774948-AE1A-466E-A2FE-1A4F6865FDBF}|ContactAppMiniProject\\ContactAppMiniProject.csproj|d:\\training\\contactappminiproject\\contactappminiproject\\views\\contactdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6774948-AE1A-466E-A2FE-1A4F6865FDBF}|ContactAppMiniProject\\ContactAppMiniProject.csproj|solutionrelative:contactappminiproject\\views\\contactdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactDetailsController.cs",
+              "DocumentMoniker": "D:\\Training\\ContactAppMiniProject\\ContactAppMiniProject\\Controllers\\ContactDetailsController.cs",
+              "RelativeDocumentMoniker": "ContactAppMiniProject\\Controllers\\ContactDetailsController.cs",
+              "ToolTip": "D:\\Training\\ContactAppMiniProject\\ContactAppMiniProject\\Controllers\\ContactDetailsController.cs",
+              "RelativeToolTip": "ContactAppMiniProject\\Controllers\\ContactDetailsController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwDkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:10:27.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "myGrid.js",
+              "DocumentMoniker": "D:\\Training\\ContactAppMiniProject\\ContactAppMiniProject\\Scripts\\myGrid.js",
+              "RelativeDocumentMoniker": "ContactAppMiniProject\\Scripts\\myGrid.js",
+              "ToolTip": "D:\\Training\\ContactAppMiniProject\\ContactAppMiniProject\\Scripts\\myGrid.js",
+              "RelativeToolTip": "ContactAppMiniProject\\Scripts\\myGrid.js",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-26T08:47:05.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDashboard.cshtml",
+              "DocumentMoniker": "D:\\Training\\ContactAppMiniProject\\ContactAppMiniProject\\Views\\Contact\\UserDashboard.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMiniProject\\Views\\Contact\\UserDashboard.cshtml",
+              "ToolTip": "D:\\Training\\ContactAppMiniProject\\ContactAppMiniProject\\Views\\Contact\\UserDashboard.cshtml",
+              "RelativeToolTip": "ContactAppMiniProject\\Views\\Contact\\UserDashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T09:10:13.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Training\\ContactAppMiniProject\\ContactAppMiniProject\\Views\\ContactDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactAppMiniProject\\Views\\ContactDetails\\Index.cshtml",
+              "ToolTip": "D:\\Training\\ContactAppMiniProject\\ContactAppMiniProject\\Views\\ContactDetails\\Index.cshtml",
+              "RelativeToolTip": "ContactAppMiniProject\\Views\\ContactDetails\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T08:46:41.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

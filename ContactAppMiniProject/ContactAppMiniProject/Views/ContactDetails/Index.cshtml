@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+@*<div class="container" id="addNewRecordForm" style="display:none">
+        @Html.Partial("_AddRecordPartial")
+    </div>*@
+<div class="container" id="productList">
+    <h2 style="margin-top: 10px;">Contact Details</h2>
+    <div>
+        <table id="jqgrid"></table>
+        @if (!User.IsInRole("admin"))
+        {
+            <div id="pager"></div>
+        }
+    </div>
+</div>
+<div style="margin-top: 10px;">
+    @Html.ActionLink("Back", null, null, new { onclick = "history.go(-1); return false;", @class = "btn btn-secondary" })
+</div>
+@*formatting and displaying JqGrid*@
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/redmond/jquery-ui.css">
+<script src="~/Scripts/myGrid.js"></script>
+

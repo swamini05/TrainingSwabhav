@@ -4,6 +4,7 @@ using System.Web.Security;
 using CombinationBooks.Data;
 using CombinationBooks.Models;
 using CombinationBooks.ViewModels;
+using NHibernate.Linq;
 
 namespace CombinationBooks.Controllers
 {
@@ -14,7 +15,7 @@ namespace CombinationBooks.Controllers
         {
             using (var session = NHibernateHelper.CreateSession())
             {
-                var data = session.Query<Book>().ToList();
+                var data = session.Query<Book>().Fetch(b => b.Author).ToList();
                 return View(data);
             }
         }
